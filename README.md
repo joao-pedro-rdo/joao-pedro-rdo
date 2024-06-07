@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent)
+
+
+<a href="https://github.com/joao-pedro-rdo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent" />
+</a>
