@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/joao-pedro-rdo/github-readme-stats">
   <img height="130"" align="center" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="href="https://github.com/joao-pedro-rdo/github-readme-stats">
   <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent" />
 </a>
