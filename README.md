@@ -21,16 +21,18 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent)
 
 -->
+<div align="center">
 <a href="https://github.com/joao-pedro-rdo/github-readme-stats">
   <img height="130"" align="center" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="href="https://github.com/joao-pedro-rdo/github-readme-stats">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent" />
 </a>
+</div>
 
 ##
 <!-- Icones de linguagem-->
-<div>
+<div align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img  align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 ##
 
 <!-- Icones de contato-->
-<div>
+<div align="center">
   <a href="https://discord.com/channels/328331295711297536">
 <img align="center" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
