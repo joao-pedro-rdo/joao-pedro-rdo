@@ -20,7 +20,15 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent)
 
+
 -->
+# Olá! Eu sou João Pedro Ramos 👋
+
+## Sobre Mim
+
+Sou 3° Sargento no Exército Brasileiro, onde atuo na seção de TI da minha organização militar. Minhas responsabilidades incluem a gestão da infraestrutura de servidores, redes e gestão de TI. Além disso, sou acadêmico de Ciência da Computação na Universidade Federal do Pampa (Unipampa), onde busco expandir meus conhecimentos e habilidades no campo da tecnologia.
+
+
 <div align="center">
 <a href="https://github.com/joao-pedro-rdo/github-readme-stats">
   <img height="130"" align="center" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github" />
@@ -51,11 +59,13 @@ Here are some ideas to get you started:
 ##
 
 <!-- Icones de contato-->
+<h3>Contato:</h3>
 <div align="center">
-  <a href="https://discord.com/channels/328331295711297536">
+  <a href="https://www.linkedin.com/in/joaopedrordeo/">
     <img align="center" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
-  <a href="https://www.linkedin.com/in/joaopedrordeo/">
-    <img align="center" src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://criarmeulink.com.br/u/1721335292">
+    <img align="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+ 
 </div>
