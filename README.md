@@ -34,10 +34,10 @@ Como gestor de TI, tenho um amplo interesse em redes, servidores, virtualizaçã
 ##
 <div align="center">
 <a href="https://github.com/joao-pedro-rdo/github-readme-stats">
-  <img height="190"" align="center" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github" />
+  <img height="170"" align="center" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="href="https://github.com/joao-pedro-rdo/github-readme-stats">
-  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent" />
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent" />
 </a>
 </div>
 
