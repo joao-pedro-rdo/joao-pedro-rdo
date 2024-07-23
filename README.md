@@ -30,7 +30,7 @@ Meu nome é João Pedro Ramos. Sou 3° Sargento no Exército Brasileiro, onde at
 
 Como gestor de TI, tenho um amplo interesse em redes, servidores, virtualização, linux e cibersegurança 
 
-Atualmente, trabalho com servidores usando Proxmox e serviços sendo disponibilizados com máquinas virtuais e containers LXC. Em paralelo, estou estudando Docker com foco em redes para serviços distribuídos.
+Atualmente, trabalho com servidores usando Proxmox e serviços sendo disponibilizados com máquinas virtuais e containers LXC. Em paralelo, estou estudando Docker com foco em serviços distribuídos.
 </div>
 
 ##
