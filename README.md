@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ## Olá!  👋
-Meu nome é João Pedro Ramos. Sou 3° Sargento no Exército Brasileiro, onde atuo na seção de TI da minha organização militar. Minhas responsabilidades incluem a gestão da infraestrutura de servidores, redes e gestão de TI. Além disso, sou acadêmico de Ciência da Computação na Universidade Federal do Pampa (Unipampa), onde busco expandir meus conhecimentos e habilidades no campo da tecnologia.Durante minha trajetória, tenho buscado conciliar o conhecimento técnico adquirido na universidade com a experiência profissional. Esse equilíbrio me levou a me especializar em DevOps, o qual é o meu principal foco de estudo atual.
+Meu nome é João Pedro Ramos. Sou 3° Sargento no Exército Brasileiro, onde atuo na seção de TI da minha organização militar. Minhas responsabilidades incluem a gestão da infraestrutura de servidores, redes e gestão de TI. Além disso, sou acadêmico de Ciência da Computação na Universidade Federal do Pampa (Unipampa), onde busco expandir meus conhecimentos e habilidades no campo da tecnologia. Durante minha trajetória, tenho buscado conciliar o conhecimento técnico adquirido na universidade com a experiência profissional. Esse equilíbrio me levou a me especializar em DevOps, o qual é o meu principal foco de estudo atual.
 
 Atualmente, trabalho com servidores usando Proxmox e serviços sendo disponibilizados com máquinas virtuais e containers LXC.
 
