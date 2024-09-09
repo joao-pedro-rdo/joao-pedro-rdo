@@ -62,7 +62,7 @@ Tenho um amplo interesse em redes, servidores, virtualização, docker, python, 
   <img align="center" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" height="50" width="40" src = "https://camo.githubusercontent.com/cb6c50486cf76c4a9a9a4c7811f8bf97f59f7512d11119a386021086997cae0e/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f785f73796d626f6c5f7374616e646172645f6865782e706e67"/>
+  <img align="center" height="50" width="40" src = "https://avatars.githubusercontent.com/u/2678585?s=200&v=4"/>
 </div>
 
 ##
