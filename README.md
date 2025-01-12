@@ -61,8 +61,19 @@ Tenho um amplo interesse em redes, servidores, virtualização, docker, python, 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
   <img align="center" height="50" width="40" src = "https://avatars.githubusercontent.com/u/2678585?s=200&v=4"/>
+
+   <img align="center" height="50" width="40" src =  "https://www.svgrepo.com/show/452192/docker.svg"/>  
+  <img align="center" height="60" width="50" src ="https://www.svgrepo.com/show/373429/ansible.svg"/>
+  <img align="center" height="50" width="40" src ="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
+
+ <img align="center" height="50" width="40" src = "https://www.svgrepo.com/show/448228/grafana.svg"/>
+ <img align="center" height="70" width="60" src ="https://adminguide.ru/wp-content/uploads/2018/05/post-logo_Zabbix.png"/>
+
+ 
+  
+
 </div>
 
 ##
