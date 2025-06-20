@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 
 ## Olá!  👋
-Meu nome é João Pedro Ramos. Sou 3° Sargento no Exército Brasileiro, onde atuo na seção de TI da minha organização militar. Minhas responsabilidades incluem a gestão da infraestrutura de servidores, redes e gestão de TI. Além disso, sou acadêmico de Ciência da Computação na Universidade Federal do Pampa (Unipampa), onde busco expandir meus conhecimentos e habilidades no campo da tecnologia. Durante minha trajetória, tenho buscado conciliar o conhecimento técnico adquirido na universidade com a experiência profissional. Esse equilíbrio me levou a me especializar em DevOps, o qual é o meu principal foco de estudo atual.
+Meu nome é João Pedro Ramos de Oliveira. Atualmente sou 3º Sargento no Exército Brasileiro e chefe da seção de TI da minha organização militar, onde atuo na gestão e manutenção da infraestrutura de servidores, redes, monitoramento de sistemas e desenvolvimento de aplicações web. Paralelamente, estou cursando Ciência da Computação na Universidade Federal do Pampa, buscando sempre aliar conhecimento acadêmico à prática profissional.
 
-Atualmente, trabalho com servidores usando Proxmox e serviços sendo disponibilizados com máquinas virtuais e containers LXC.
+Possuo experiência em virtualização (Proxmox, LXC, máquinas virtuais), conteinerização (Docker), automação de infraestrutura (Terraform e Ansible), e monitoramento de sistemas utilizando Zabbix e Grafana. Tenho dedicado tempo significativo ao estudo e aplicação prática de conceitos e ferramentas de DevOps, com o objetivo de construir pipelines de entrega contínua (CI/CD), automatizando o provisionamento da infraestrutura e a implantação de serviços.
 
-Tenho um amplo interesse em redes, servidores, virtualização, docker, python, linux, infraestrutura e cibersegurança.
+Tenho grande interesse em infraestrutura, redes, Linux, segurança da informação, automação e programação. Busco constantemente aprimorar minhas habilidades técnicas e gerenciais para contribuir com soluções eficazes em ambientes tecnológicos
 </div>
 
 ##
