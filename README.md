@@ -70,7 +70,11 @@ Tenho grande interesse em infraestrutura, redes, Linux, segurança da informaç�
 
  <img align="center" height="50" width="40" src = "https://www.svgrepo.com/show/448228/grafana.svg"/>
  <img align="center" height="70" width="60" src ="https://adminguide.ru/wp-content/uploads/2018/05/post-logo_Zabbix.png"/>
-
+ <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+ <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
+          
+          
+          
  
   
 
