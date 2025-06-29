@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ## Olá!  👋
-Meu nome é João Pedro Ramos de Oliveira. Atualmente sou 3º Sargento no Exército Brasileiro e chefe da seção de TI da minha organização militar, onde atuo na gestão e manutenção da infraestrutura de servidores, redes, monitoramento de sistemas e desenvolvimento de aplicações web. Paralelamente, estou cursando Ciência da Computação na Universidade Federal do Pampa, buscando sempre aliar conhecimento acadêmico à prática profissional.
+Meu nome é João Pedro Ramos de Oliveira. Atualmente sou 3º Sargento no Exército Brasileiro onde atuo na seção de TI, da minha organização militar, minhas responsabilidades incluem a gestão e manutenção da infraestrutura de servidores, redes, monitoramento de sistemas e desenvolvimento de aplicações web. Paralelamente, estou cursando Ciência da Computação na Universidade Federal do Pampa, buscando sempre aliar conhecimento acadêmico à prática profissional.
 
 Possuo experiência em virtualização (Proxmox, LXC, máquinas virtuais), conteinerização (Docker), automação de infraestrutura (Terraform e Ansible), e monitoramento de sistemas utilizando Zabbix e Grafana. Tenho dedicado tempo significativo ao estudo e aplicação prática de conceitos e ferramentas de DevOps, com o objetivo de construir pipelines de entrega contínua (CI/CD), automatizando o provisionamento da infraestrutura e a implantação de serviços.
 
