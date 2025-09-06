@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 
 
 
-## Olá!  👋
-Meu nome é João Pedro Ramos de Oliveira. Atualmente sou 3º Sargento no Exército Brasileiro onde atuo na seção de TI, da minha organização militar, minhas responsabilidades incluem a gestão e manutenção da infraestrutura de servidores, redes, monitoramento de sistemas e desenvolvimento de aplicações web. Paralelamente, estou cursando Ciência da Computação na Universidade Federal do Pampa, buscando sempre aliar conhecimento acadêmico à prática profissional.
-
-Possuo experiência em virtualização (Proxmox, LXC, máquinas virtuais), conteinerização (Docker), automação de infraestrutura (Terraform e Ansible), e monitoramento de sistemas utilizando Zabbix e Grafana. Tenho dedicado tempo significativo ao estudo e aplicação prática de conceitos e ferramentas de DevOps, com o objetivo de construir pipelines de entrega contínua (CI/CD), automatizando o provisionamento da infraestrutura e a implantação de serviços.
-
-Tenho grande interesse em infraestrutura, redes, Linux, segurança da informação, automação e programação. Busco constantemente aprimorar minhas habilidades técnicas e gerenciais para contribuir com soluções eficazes em ambientes tecnológicos
+# João Pedro Ramos de Oliveira
+## 👨‍💻 Sobre mim
+Profissional especializado em DevOps e Infraestrutura de TI com experiência prática na modernização de ambientes tecnológicos. Atualmente atuo como 3º Sargento no Exército Brasileiro, onde lidero projetos de transformação digital, virtualização e automação de infraestrutura.
+Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre buscando alinhar conhecimento acadêmico com a prática profissional para entregar soluções uteis, tecnologicas, eficientes e inovadoras.
+🎯 Foco atual: Desenvolvimento de aplicações web e ferramentas de integração em Pipeline CI/CD, automação de infraestrutura, containerização, observabilidade .
 </div>
 
-##
+---
+## 📊 Estatísticas GitHub ##
 <div align="center">
 <a href="https://github.com/joao-pedro-rdo/github-readme-stats">
   <img height="170"" align="center" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github" />
@@ -47,48 +47,81 @@ Tenho grande interesse em infraestrutura, redes, Linux, segurança da informaç�
 </a>
 </div>
 
-##
-<!-- Icones de linguagem-->
+---
+
+
+## 🌱 Estudando Atualmente
+
 <div align="center">
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img  align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
-
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-  <img align="center" height="50" width="40" src = "https://avatars.githubusercontent.com/u/2678585?s=200&v=4"/>
-
-   <img align="center" height="50" width="40" src =  "https://www.svgrepo.com/show/452192/docker.svg"/>  
-  <img align="center" height="60" width="50" src ="https://www.svgrepo.com/show/373429/ansible.svg"/>
-  <img align="center" height="50" width="40" src ="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
-
- <img align="center" height="50" width="40" src = "https://www.svgrepo.com/show/448228/grafana.svg"/>
- <img align="center" height="70" width="60" src ="https://adminguide.ru/wp-content/uploads/2018/05/post-logo_Zabbix.png"/>
- <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
- <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
-          
-          
-          
- 
   
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
 
 </div>
 
-##
+## 🛠️ Stack Tecnológica
 
-<!-- Icones de contato-->
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaopedrordeo/">
-    <img align="center" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
-  <a href="https://criarmeulink.com.br/u/1721335292">
-    <img align="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- 
+
+### Linguagens de Programação
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
+### Frontend & Web
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+
+### DevOps & Infraestrutura
+<img height="40" src="https://www.svgrepo.com/show/452192/docker.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
+<img height="40" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" />
+<img height="40" src="https://www.svgrepo.com/show/373429/ansible.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+
+### Sistemas & Databases
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
+<img height="40" src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+
+### Monitoramento & Observabilidade
+<img height="40" src="https://www.svgrepo.com/show/448228/grafana.svg" />
+<img height="50" src="https://adminguide.ru/wp-content/uploads/2018/05/post-logo_Zabbix.png" />
+
 </div>
+          
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaopedrordeo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joaopedrordeo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/joao-pedro-rdo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div> 
+
+
+  
+<div align="center">
+  <i>💡 Sempre em busca de novos desafios e oportunidades para aplicar tecnologia na solução de problemas💡.</i>
+</div>
+
+ 
+
+
