@@ -4,7 +4,7 @@
 Profissional especializado em DevOps e Infraestrutura de TI com sólida experiência na modernização de ambientes tecnológicos. Como 3º Sargento no Exército Brasileiro, lidero projetos de transformação digital, focados em virtualização e automação de infraestrutura.
 Cursando Ciência da Computação na Universidade Federal do Pampa (UNIPAMPA), busco constantemente aliar o conhecimento acadêmico à prática para entregar soluções eficientes, inovadoras e de baixo custo.
 
-🎯 **Foco atual**: Desenvolvimento de aplicações web e ferramentas de integração em Pipeline CI/CD, automação de infraestrutura, containerização, observabilidade .
+🎯 **Foco atual**: Desenvolvimento de aplicações web e ferramentas de integração em Pipeline CI/CD, automação de infraestrutura, containerização, observabilidade.
 </div>
 
 > 💡 Sempre em busca de novos desafios e oportunidades para aplicar tecnologia na solução de problemas.
