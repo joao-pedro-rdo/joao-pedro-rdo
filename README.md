@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 Sobre mim
 Profissional especializado em DevOps e Infraestrutura de TI com experiência prática na modernização de ambientes tecnológicos. Atualmente atuo como 3º Sargento no Exército Brasileiro, onde lidero projetos de transformação digital, virtualização e automação de infraestrutura.
 Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre buscando alinhar conhecimento acadêmico com a prática profissional para entregar soluções uteis, tecnologicas, eficientes e inovadoras.
+
 🎯 Foco atual: Desenvolvimento de aplicações web e ferramentas de integração em Pipeline CI/CD, automação de infraestrutura, containerização, observabilidade .
 </div>
 
@@ -43,20 +44,6 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
 </div>
 
 ---
-
-
-## 🌱 Estudando Atualmente
-
-<div align="center">
-  
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-
-
-</div>
-
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
@@ -66,12 +53,12 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
       <strong>Linguagens</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </td>
   </tr>
   <tr>
@@ -79,10 +66,10 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
       <strong>Infra & Virtualização</strong>
     </td>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/452192/docker.svg" width="40" height="40" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
-      <img src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4" width="40" height="40" alt="Proxmox" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     </td>
   </tr>
   <tr>
@@ -90,9 +77,9 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
       <strong>DevOps & Automação</strong>
     </td>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="40" height="40" alt="Terraform" />
-      <img src="https://www.svgrepo.com/show/373429/ansible.svg" width="40" height="40" alt="Ansible" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+      <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
     </td>
   </tr>
   <tr>
@@ -100,8 +87,8 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
       <strong>Monitoramento</strong>
     </td>
     <td align="center">
-      <img src="https://adminguide.ru/wp-content/uploads/2018/05/post-logo_Zabbix.png" width="60" height="50" alt="Zabbix" />
-      <img src="https://www.svgrepo.com/show/448228/grafana.svg" width="40" height="40" alt="Grafana" />
+      <img src="https://img.shields.io/badge/zabbix-D100000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+      <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
     </td>
   </tr>
     <tr>
@@ -109,15 +96,14 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
       <strong>Bancos de Dados</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-CF142B?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white"/>
     </td>
   </tr>
 </table>
-
 </div>
-          
 
 ## 📫 Contato
 
@@ -131,8 +117,7 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
   <a href="https://github.com/joao-pedro-rdo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div> 
-
+</div>
 
   
 <div align="center">
