@@ -1,38 +1,27 @@
 
-
-<!--
-**joao-pedro-rdo/joao-pedro-rdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-pedro-rdo&s&icons=true&theme=transparent&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-rdo&layout=compact&theme=transparent)
-
-
--->
-<div>
-
 # João Pedro Ramos de Oliveira
-## 👨‍💻 Sobre mim
-Profissional especializado em DevOps e Infraestrutura de TI com experiência prática na modernização de ambientes tecnológicos. Atualmente atuo como 3º Sargento no Exército Brasileiro, onde lidero projetos de transformação digital, virtualização e automação de infraestrutura.
-Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre buscando alinhar conhecimento acadêmico com a prática profissional para entregar soluções uteis, tecnologicas, eficientes e inovadoras.
+##  Sobre mim
+Profissional especializado em DevOps e Infraestrutura de TI com sólida experiência na modernização de ambientes tecnológicos. Como 3º Sargento no Exército Brasileiro, lidero projetos de transformação digital, focados em virtualização e automação de infraestrutura.
+Cursando Ciência da Computação na Universidade Federal do Pampa (UNIPAMPA), busco constantemente aliar o conhecimento acadêmico à prática para entregar soluções eficientes, inovadoras e de baixo custo.
 
-🎯 Foco atual: Desenvolvimento de aplicações web e ferramentas de integração em Pipeline CI/CD, automação de infraestrutura, containerização, observabilidade .
+🎯 **Foco atual**: Desenvolvimento de aplicações web e ferramentas de integração em Pipeline CI/CD, automação de infraestrutura, containerização, observabilidade .
 </div>
 
----
+> 💡 Sempre em busca de novos desafios e oportunidades para aplicar tecnologia na solução de problemas.
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaopedrordeo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joaopedrordeo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+
+
 ## 📊 Estatísticas GitHub ##
 <div align="center">
 <a href="https://github.com/joao-pedro-rdo/github-readme-stats">
@@ -43,7 +32,18 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
 </a>
 </div>
 
----
+
+
+## 🌱 Estudando Atualmente
+
+<div align="center">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+</div>
+
+
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
@@ -70,6 +70,7 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
       <img src="https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -105,25 +106,27 @@ Estudante de Ciência da Computação na Universidade Federal do Pampa, sempre b
 </table>
 </div>
 
-## 📫 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/joaopedrordeo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:joaopedrordeo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/joao-pedro-rdo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
+<details>
+  <summary><strong>🚀 Principais Competências</strong></summary>
   
-<div align="center">
-  <i>💡 Sempre em busca de novos desafios e oportunidades para aplicar tecnologia na solução de problemas💡.</i>
-</div>
+  ### DevOps & Infraestrutura
+  * **Virtualização:** Proxmox, LXC, Docker, Kubernetes
+  * **Automação:** Terraform, Ansible, GitHub Actions (CI/CD)
+  * **Monitoramento:** Zabbix, Grafana
+  * **Sistemas:** Linux (Administração avançada)
 
- 
+  ### Desenvolvimento
+  * **Principais:** Python, JavaScript, TypeScript
+  * **Experiência:** C, C++, PHP, Shell Script
+  * **Databases:** MySQL, PostgreSQL, SQLAlchemy
+  
+  ### Outras Especialidades
+  * Redes e Segurança da Informação
+  * Liderança técnica em projetos de TI
+  * Soluções Open-Source
+
+</details>
+
+ ---
 
 
