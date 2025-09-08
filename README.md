@@ -37,6 +37,7 @@ Cursando Ciência da Computação na Universidade Federal do Pampa (UNIPAMPA), b
 ## 🌱 Estudando Atualmente
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
